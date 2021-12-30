@@ -1,7 +1,7 @@
 # Priyanshumishra.com
 Computer Architecture and Digital VLSI Enthusiast.
-Currently a **Design and Verification Trainee**.
-Ex-Embeddeed Hardware Design Engineer (Automotive start-up).
+Currently a **Design Verification Engineer**.
+Ex-Embeddeed Hardware Design Engineer.
 
 ## Header two
 
@@ -13,11 +13,11 @@ Hyperlink [Wordpress]{https://wordpress.com/me}
 
 Bullet list:
 
-- cats
-- dogs
-- elephant
+- Processor Architecture
+- VLSI
+- Hw/Sw Co-verification
 
 Numbered list:
 
-1. papaya
-2. mango
+1. Google RIG
+2. Ariane Core
